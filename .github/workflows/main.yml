@@ -1,1 +1,9 @@
-
+name: task3 
+on: push
+jobs:
+    m1:
+        runs-on: lab-three
+        steps:
+          name: st1
+          run: echo'ahmed hassan'
+          
