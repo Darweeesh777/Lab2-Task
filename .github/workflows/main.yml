@@ -6,6 +6,5 @@ jobs:
         steps:
           name: st1
           run: echo'ahmed hassan'
-          name: st5 
-          run: echo'rofa'
+         
           
